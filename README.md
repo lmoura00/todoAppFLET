@@ -1,8 +1,8 @@
-# Flet app
+# Flet app TODO
 
-A simple Flet app.
+Feito com Flet (Flutter + Python)
 
-To run the app:
+Baseado no código disponibilizado na documentação.
 
 ```
 flet run [app_directory]
